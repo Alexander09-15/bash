@@ -1,3 +1,4 @@
+#!/bin/bash
 variable="Hola, alex"
 echo $variable
 
